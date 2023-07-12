@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578782372411",
+    "project_id": "mehndiapp-bcf22",
+    "storage_bucket": "mehndiapp-bcf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578782372411:android:e55d23e5094debf859721e",
+        "android_client_info": {
+          "package_name": "com.example.mehndidesignapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578782372411-ikl0hlug5upmlamltcmpjn4gu2k9n3dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6r22_L9RlVFPS4VpXrfH9w3cufl6QaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578782372411-ikl0hlug5upmlamltcmpjn4gu2k9n3dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
